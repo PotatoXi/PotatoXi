@@ -3,7 +3,11 @@
 
 ⚡ C++ / Python 
 
-🏃‍ ML AI
+🏃‍ ML、🤖、Ai、
+
+🌱 formula derivation
+
+
 
 
 <!--
