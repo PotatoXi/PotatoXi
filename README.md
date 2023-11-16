@@ -9,6 +9,7 @@
 
 💡 
 
+![Uploading P1.png…]()
 
 <!--
 **PotatoXi/PotatoXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
