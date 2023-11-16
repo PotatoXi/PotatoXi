@@ -1,13 +1,15 @@
 ### Hi, I'm Jamie 👋
 
 
-⚡ C++ / Python 
+🔭 
 
-🏃‍ ML、🤖、Ai ...
+⚡ Python 
 
-🌱 formula derivation
+😄🏃‍♀️🏊‍♀️🥎🏀🤖🐱
 
+🎯 earth 
 
+💡
 
 
 <!--
