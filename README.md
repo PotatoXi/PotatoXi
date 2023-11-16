@@ -1,24 +1,21 @@
-### <center> Hi, I'm J.M. Zhao👋
+<h1 align="center"> Hi, I'm J.M. Zhao👋</a></h1>
+
+<a target="_blank" align="center">
+ <img align="right" top="500" height="300" width="400"  src="https://github.com/PotatoXi/PotatoXi/blob/main/P1.png">
+</a>
+
+    -  🔭 🏃‍♀️🏊‍♀️🥎🏀🤖🐱  
 
 
-
-<div style="overflow: auto;">
-    <div style="float: left; margin-right: 300px;">
-        🔭 🏃‍♀️🏊‍♀️🥎🏀🤖🐱  
-        <br><br>
-        ⚡ Python   
-        <br><br>
-        🎯 earth   
-        <br>
-    </div>
-    <div style="float: right;">
-        <img src="https://github.com/PotatoXi/PotatoXi/blob/main/P1.png" width="300" height="300">
-    </div>
-</div>
+    -  ⚡ Python / C++
 
 
+    -  🎯 Earth
 
-  
+
+    -  🌱 BiliBili 📖 🎞️
+
+
 <!--
 **PotatoXi/PotatoXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
