@@ -5,10 +5,11 @@
 <div style="overflow: auto;">
     <div style="float: left; margin-right: 300px;">
         🔭 🏃‍♀️🏊‍♀️🥎🏀🤖🐱  
-        <br><br><br>
+        <br><br>
         ⚡ Python   
-        <br><br><br>
+        <br><br>
         🎯 earth   
+        <br>
     </div>
     <div style="float: right;">
         <img src="https://github.com/PotatoXi/PotatoXi/blob/main/P1.png" width="300" height="300">
