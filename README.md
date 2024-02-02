@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm J.M. Zhao👋</a></h1>
+<h1 align="center"> Hi 👋</a></h1>
 
 <a target="_blank" align="center">
  <img align="right" top="500" height="512" width="512"  src="https://github.com/PotatoXi/PotatoXi/blob/main/P1.png">
