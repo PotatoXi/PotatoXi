@@ -10,10 +10,10 @@
 -  ⚡  Python / C++  
 <br><br>
 
--  🎯  Earth  
+-  🌍  Earth  
 <br><br>
 
--  🌱  BiliBili 📖 🎞️
+-  🌱  B/Y 📖 🎞️
 <br><br><br>
 
 -  💡***Plunge into it, move with it, and join the dance！***
