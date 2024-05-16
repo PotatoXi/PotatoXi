@@ -7,8 +7,7 @@
 -  🔭  🏃‍♀️🏊‍♀️🥎🏀🤖🐱  
 <br><br>
 
--  ⚡  Python / C++  
-<br><br>
+-  ⚡  Python / C++  / MATLAB / HTML
 
 -  🌍  Earth  
 <br><br>
