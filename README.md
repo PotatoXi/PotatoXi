@@ -4,16 +4,17 @@
  <img align="right" top="500" height="512" width="512"  src="https://github.com/PotatoXi/PotatoXi/blob/main/P1.png">
 </a>
 
--  🔭  🏃‍♀️🏊‍♀️🥎🏀🤖🐱  
+-  🔭  🏃‍♀️🧗‍♀️🏊‍♀️🥎🏀🤖🐱  
 <br><br>
 
--  ⚡  Python  C++  Matlab  HTML
-
--  🌍  Earth  Ocean
+-  ⚡Python  C++  Matlab 
 <br><br>
 
--  🌱  B/Y 📖 🎞️
-<br><br><br>
+-  🌍  Earth  🌊Ocean 
+<br><br>
+
+-  🌱  B Y 📖 🎞️
+<br><br>
 
 -  💡***Plunge into it, move with it, and join the dance！***
 
