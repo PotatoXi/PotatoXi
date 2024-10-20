@@ -18,6 +18,10 @@
 
 -  💡***Plunge into it, move with it, and join the dance！***
 
+-  💡***Whatever is worth doing at all is worth doing well ！***
+
+-  💡***Good things will happen！***
+
 <!--
 **PotatoXi/PotatoXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
