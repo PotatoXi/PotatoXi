@@ -10,7 +10,7 @@
 -  ⚡Python  C++  Matlab 
 <br><br>
 
--  🌍  Earth  🌊Ocean 
+-  🌍  Earth  🌊Ocean 🌙geophysics
 <br><br>
 
 -  🌱  B Y 📖 🎞️
