@@ -7,7 +7,7 @@
 -  🔭  🏃‍♀️🧗‍♀️🏊‍♀️🥎🏀🤖🐱  
 <br><br>
 
--  ⚡Python  C++  Matlab 
+-  ⚡Python  C++  Matlab Fortran
 <br><br>
 
 -  🌍  Earth  🌊Ocean 🌙geophysics
