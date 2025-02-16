@@ -13,7 +13,7 @@
 -  🌍  Earth  🌊Ocean 🌙geophysics
 <br><br>
 
--  🌱  B Y 📖 🎞️
+-  🌱  📖 🎞️
 <br><br>
 
 -  💡***Plunge into it, move with it, and join the dance！***
